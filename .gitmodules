@@ -1,0 +1,6 @@
+[submodule "dockerfiles"]
+	path = dockerfiles
+	url = https://github.com/jessfraz/dockerfiles.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/jessfraz/dotfiles.git
